@@ -1,0 +1,28 @@
+```text
+# Compilação e Artefatos do Maven
+target/
+*.pom
+*.jar
+*.war
+*.ear
+
+# IDEs e Ferramentas (Eclipse / VS Code / IntelliJ)
+.settings/
+.project
+.classpath
+.factorypath
+.metadata/
+.recommenders/
+.bin/
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# Arquivos de Sistema e Log
+*.log
+.DS_Store
+Thumbs.db
+
+# Binários e Drivers Locais
+src/test/resources/*.exe
